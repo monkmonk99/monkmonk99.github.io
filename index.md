@@ -37,6 +37,7 @@ I am a university student at Macquarie University studying a Bachelor of Enginee
 # Interests
 
 - Artificial Intelligence
-- Cyber Security
+- Open Source Software and Linux
+- Cyber Security/Secure development
 - Bush Walking
-- Strength/Mobility Training
+- Powerlifting with a dash of functional training
