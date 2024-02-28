@@ -10,14 +10,22 @@ I am a university student at Macquarie University studying a Bachelor of Enginee
 
 # Career
 * Inconsult (2023/06 ~ Present)
-  * Internal Support Audit Officer
-  * Internal Audit/Automation
-    * C#
+  * Software Development Support Officer
+  * Data Analysis/Web Server Management/AI Integration
+    * PHP/Python/C#
+  * Focus on open-source, self-hosted solutions for security and cost-effectiveness
+* Macquarie University Thesis (2023/02 ~ 2023/11)
+  * Student Researcher
+  * AI Research
+    * Python/Data Collection/Data Science
+  * Strong foundational understanding of Neural Networks
+  * Got really good marks :)
 * Macquarie University (2022/06 ~ 2023/06)
   * Research Intern
-  * Agile/Experimental Development
+  * Agile Development
     * Python
     * Remote Development
+  * Startup/Academic environment
 * SharePoint Gurus (2021/01 ~ 2022/06)
   * Junior Consultant
   * SharePoint/Business Process Automation
