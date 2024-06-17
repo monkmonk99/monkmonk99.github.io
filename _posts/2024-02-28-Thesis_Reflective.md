@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "A Reflection on my Honours thesis"
-info: "Education"
-tech : "ai/python"
-type: Reflection
+title:  "Honours Thesis"
+info: "A summary of the project and a very short reflective"
+tech : "AI, Python"
+type: Blog
 ---
 
-# My Thesis
+# My Honours Thesis
 
 In 2023 I completed my Honours Thesis at Macquarie University. And with a pretty strong result, a high distinction, it may not have seemed like a bumpy ride. But I definitely grew a few unnoticed greys and shortened my lifespan by 6 months during those 2 semesters. It was a project that started *so* strong and with a ton of passion, but fell into a nosedive, and only at the last minute did I realise it had a relatively solid finish.
 
 I will note here that my success is indebted to Dr Ian Wood, my supervisor, who I would consider to be rather brilliant and also a consistently easy person to converse with, even when I failed to meet expectations or blundered, as well as my family, I thank them for their tolerance of me.
-## A Summary of my Thesis
+
+## Summary
 
 Initially, my thesis was planned to be a collaborative effort with **scambaiters** to find approximately which **social engineering** techniques work best for keeping scammers on the phone or engaged in email conversation for the longest time. This was in effort to optimise the current implementation of the [Apate project](https://apate.ai) by incorporating the results of this thesis into Apate.
 
@@ -23,16 +24,16 @@ The process for this involved first scraping data from YouTube, then transcribin
 
 ### Definitions
 
-| Term               | Definition                                                                                                                                                                                                                                  |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scambaiter         | Individuals who interact with scammers from around the world with the sole intention of agitating them and wasting their time, often as a form of content creation.                                                                         |
-| Social Engineering | Specific behaviours, phrases or alike used to elicit desired reactions                                                                                                                                                                      |
-| Unsupervised       | In the context of AI and machine learning, unsupervised implies the model has no guidance for what to look for and simply aims to find salient patterns. In simpler terms, the model has no true values to compare its predicted values to. |
-| Snorkel AI         | A platform for using human-readable heuristics as parameters in machine learning models that can classify, augment or slice datasets, with or without supervision                                                                           |
-| Mechanical Turk    | A platform for paid, simple task-completion.                                                                                                                                                                                                |
-| F1                 | An intuitive metric for evaluating classification models.                                                                                                                                                                                   |
+| Term               | Definition                                                                                                                                                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Scambaiter         | Individuals who interact with scammers from around the world with the sole intention of agitating them and wasting their time, often as a form of content creation.                                                                        |
+| Social Engineering | Specific behaviours, phrases or alike used to elicit desired reactions                                                                                                                                                                     |
+| Unsupervised       | In the context of AI and machine learning, unsupervised implies the model has no guidance for what to look for and simply aims to find salient patterns. In simpler terms, the model has no true values to compare its predicted values to |
+| Snorkel AI         | A platform for using human-readable heuristics as parameters in machine learning models that can classify, augment or slice datasets, with or without supervision                                                                          |
+| Mechanical Turk    | A platform for paid, simple task-completion                                                                                                                                                                                                |
+| F1                 | An intuitive metric for evaluating classification models                                                                                                                                                                                   |
 
-## 
+## Reflective
 
 My thesis had started out as a self-proposed topic between Ian and myself, with the aims of contributing to the [Apate Project](https://apate.ai), as Ian is a co-founder of the company and I had been interning as a developer for early iterations of the project in the months prior. As mentioned above, the topic was about finding the optimal social engineering techniques for scambaiting using artificial intelligence.
 

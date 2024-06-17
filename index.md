@@ -19,7 +19,7 @@ I am a university student at Macquarie University studying a Bachelor of Enginee
   * AI Research
     * Python/Data Collection/Data Science
   * Strong foundational understanding of Neural Networks
-  * Got really good marks :)
+  * High Distinction
 * Macquarie University (2022/06 ~ 2023/06)
   * Research Intern
   * Agile Development

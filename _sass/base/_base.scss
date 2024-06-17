@@ -8,6 +8,7 @@ body {
   color: $default-color;
   margin: 0;
   padding: 0;
+  background-color: $background-color;
 }
 
 html {
@@ -75,4 +76,17 @@ img {
 
 td {
   vertical-align: top;
+}
+
+table {
+  border-spacing: 0;
+  td {
+    border: 1px solid $default-tint;
+  }
+
+  th {
+    border: 3px solid $default-tint;
+  }
+
+
 }
