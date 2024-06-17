@@ -10,8 +10,8 @@ I am a university student at Macquarie University studying a Bachelor of Enginee
 
 # Career
 * Inconsult (2023/06 ~ Present)
-  * Software Development Support Officer
-  * Data Analysis/Web Server Management/AI Integration
+  * Software Developer & Cyber Security Analyst
+  * .NET Developer/Web Server Management/Cyber Security Analysis
     * PHP/Python/C#
   * Focus on open-source, self-hosted solutions for security and cost-effectiveness
 * Macquarie University Thesis (2023/02 ~ 2023/11)
@@ -20,7 +20,7 @@ I am a university student at Macquarie University studying a Bachelor of Enginee
     * Python/Data Collection/Data Science
   * Strong foundational understanding of Neural Networks
   * High Distinction
-* Macquarie University (2022/06 ~ 2023/06)
+* Macquarie University Cyber Security Hub(2022/06 ~ 2023/06)
   * Research Intern
   * Agile Development
     * Python
